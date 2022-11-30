@@ -1,5 +1,8 @@
-# GMM_Background_Seg
+# Py_GMM_Background_Seg
 利用混合高斯模型(GMM)完成背景分割任务
+
+![image](https://user-images.githubusercontent.com/58870893/204740044-49ce4364-5031-4eee-89c7-85aaf7b89a7f.png)
+
 ## 项目特性
 - 基于Numpy中的矩阵运算实现，计算性能高
 - 公式步骤清楚明晰，适合学习
